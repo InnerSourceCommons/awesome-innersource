@@ -1,10 +1,3 @@
----
-layout: page
-title: Code of Conduct
-nav_exclude: true
-permalink: /code-of-conduct
----
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

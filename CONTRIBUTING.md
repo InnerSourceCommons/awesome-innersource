@@ -1,10 +1,3 @@
----
-layout: page
-title: Contributing
-nav_exclude: true
-permalink: /contributing
----
-
 # Contributing
 
 Your contributions are always welcome!
