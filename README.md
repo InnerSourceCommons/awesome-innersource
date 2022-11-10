@@ -14,7 +14,6 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 ## Contents
 
 - [Books](#books)
-- [Blogs](#blogs)
 - [Tools and Applications](#tools-and-applications)
 - [Articles and Videos](#articles-and-videos)
 - [Adopters](#adopters)
@@ -26,10 +25,6 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 - [Managing InnerSource Projects](https://innersourcecommons.org/learn/books/managing-innersource-projects/) - In this book Daniel Izquierdo & José Manrique López explain basic infrastructure as well as metrics that are helpful when introducing InnerSource methodologies into an enterprise.
 - [Adopting InnerSource](https://innersourcecommons.org/learn/books/adopting-innersource-principles-and-case-studies/) - The case studies candidly discuss the difficulties of getting InnerSource projects started, along with the progress so far and the benefits or negative fallout.
 - [InnerSource Patterns](https://innersourcecommons.org/learn/books/innersource-patterns/) -  This book contains the most mature patterns, collected by the InnerSource Commons Community.
-
-## Blogs
-
-- [Sebastian Spier - Blog](https://spier.hu/) - Sebastian Spier is a Board member of the [InnerSource Commons Foundation](https://innersourcecommons.org/).
 
 ## Tools and Applications
 
