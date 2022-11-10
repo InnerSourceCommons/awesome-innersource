@@ -29,7 +29,7 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 ## Blogs
 
-- [Sebastian Spier - Blog](https://spier.hu/) - Sebastian Spier is the Board member of the [InnerSource Commons Foundation](https://innersourcecommons.org/).
+- [Sebastian Spier - Blog](https://spier.hu/) - Sebastian Spier is a Board member of the [InnerSource Commons Foundation](https://innersourcecommons.org/).
 
 ## Tools and Applications
 
