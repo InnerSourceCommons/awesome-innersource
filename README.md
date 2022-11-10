@@ -46,6 +46,7 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 ### DevOps
 
 ### Metrics, Incentives, ROI, KPI
+
 - [Knights and Gold Stars: A Tale of InnerSource Incentivization](https://ieeexplore.ieee.org/document/9904025)
 - [Starting the InnerSource Journey: Key Goals and Metrics to Measure Collaboration](https://conf.researchr.org/details/msr-2022/msr-2022-industry-track/12/Starting-the-InnerSource-Journey-Key-Goals-and-Metrics-to-Measure-Collaboration)
 - [Sustaining arm’s length cost allocations for highly integrated development functions – an explorative case study of transfer pricing for InnerSource communities](https://mnetax.com/sustaining-arms-length-cost-allocations-for-highly-integrated-development-functions-an-explorative-case-study-of-transfer-pricing-for-innersource-communities-47288)
