@@ -50,4 +50,4 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 ## Adopters
 
-https://innersourcecommons.org/stories/
+- https://innersourcecommons.org/stories/
