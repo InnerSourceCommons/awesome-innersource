@@ -39,7 +39,7 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 ### About InnerSource
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Inner_source)
+- [InnerSource Commons](https://innersourcecommons.org/) - InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
 
 ### Culture
 
