@@ -34,6 +34,8 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 ## Tools and Applications
 
 - [Backstage](https://backstage.io/) - An open platform for building developer portals. Realization of the [InnerSource Portal Pattern](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/innersource-portal.md).
+- [gilda](https://gitlab.com/gilda2/gilda) - InnerSource web gamifiaction platform for gitlab.
+- [Project Portal for InnerSource by SAP](https://github.com/SAP/project-portal-for-innersource) - A reference implementation to list all InnerSource projects of a company in an interactive and easy to use way.
 
 ## Articles and Videos 
 
@@ -53,11 +55,4 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 ## Adopters
 
-- [HP](https://en.wikipedia.org/wiki/Hewlett-Packard)
-- [IBM](https://en.wikipedia.org/wiki/IBM)
-- [Robert Bosch](https://en.wikipedia.org/wiki/Robert_Bosch_GmbH)
-- [Google](https://en.wikipedia.org/wiki/Google)
-- [Microsoft](https://en.wikipedia.org/wiki/Microsoft)
-- [SAP](https://en.wikipedia.org/wiki/SAP)
-- [PayPal](https://en.wikipedia.org/wiki/PayPal)
-- [Siemens](https://en.wikipedia.org/wiki/Siemens)
+https://innersourcecommons.org/stories/
