@@ -15,19 +15,48 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 - [Books](#books)
 - [Blogs](#blogs)
-- [Articles](#articles)
-- [Videos](#videos)
-- [Repositories](#repositories)
+- [Tools and Applications](#tools-and-applications)
+- [Articles and Videos](#articles-and-videos)
 - [Adopters](#adopters)
 
 ## Books
 
+- [Getting Started With InnerSource](https://innersourcecommons.org/learn/books/getting-started-with-innersource/) - InnerSource, the powerful movement for developing open source software within the walls of a single organization, where the “openness” of a project extends across teams inside the company. Author Andy Oram takes you inside InnerSource, first by reviewing the principles that make open source development successful, and then by describing how InnerSource has worked at PayPal.
+- [Understanding the InnerSource Checklist](https://innersourcecommons.org/learn/books/understanding-the-innersource-checklist/) - Author Silona Bonewald explains how the InnerSource initiative can help your company develop software internally by applying lessons from the open source movement. A checklist guides you through various steps needed to produce software using the InnerSource approach, whether it’s company wide or just for one team.
+- [Managing InnerSource Projects](https://innersourcecommons.org/learn/books/managing-innersource-projects/) - How to manage InnerSource projects? In this book Daniel Izquierdo & José Manrique López explain basic infrastructure as well as metrics that are helpful when introducing InnerSource methodologies into an enterprise.
+- [Adopting InnerSource](https://innersourcecommons.org/learn/books/adopting-innersource-principles-and-case-studies/) - Danese Cooper and Klaas-Jan Stol present a series of case studies at a range of companies to show when and why InnerSource may be useful to your organization. The case studies candidly discuss the difficulties of getting InnerSource projects started, along with the progress so far and the benefits or negative fallout.
+- [InnerSource Patterns](https://innersourcecommons.org/learn/books/innersource-patterns/) - A Pattern - That’s what we call InnerSource best practices codified in a specific format to make it easy to understand, evaluate, and apply them in your context. This book contains the most mature patterns, collected by the InnerSource Commons Community.
+
 ## Blogs
 
-## Articles 
+- [Sebastian Spier - Blog](https://spier.hu/) - Sebastian Spier is the Board member of the [InnerSource Commons Foundation](https://innersourcecommons.org/).
 
-## Videos
+## Tools and Applications
 
-## Repositories
+- [Backstage](https://backstage.io/) - An open platform for building developer portals. Realization of the [InnerSource Portal Pattern](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/innersource-portal.md).
+
+## Articles and Videos 
+
+### About InnerSource
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Inner_source)
+
+### Culture
+
+### DevOps
+
+### Metrics, Incentives, ROI, KPI
+- [Knights and Gold Stars: A Tale of InnerSource Incentivization](https://ieeexplore.ieee.org/document/9904025)
+- [Starting the InnerSource Journey: Key Goals and Metrics to Measure Collaboration](https://conf.researchr.org/details/msr-2022/msr-2022-industry-track/12/Starting-the-InnerSource-Journey-Key-Goals-and-Metrics-to-Measure-Collaboration)
+- [Sustaining arm’s length cost allocations for highly integrated development functions – an explorative case study of transfer pricing for InnerSource communities](https://mnetax.com/sustaining-arms-length-cost-allocations-for-highly-integrated-development-functions-an-explorative-case-study-of-transfer-pricing-for-innersource-communities-47288)
 
 ## Adopters
+
+- [HP](https://en.wikipedia.org/wiki/Hewlett-Packard)
+- [IBM](https://en.wikipedia.org/wiki/IBM)
+- [Robert Bosch](https://en.wikipedia.org/wiki/Robert_Bosch_GmbH)
+- [Google](https://en.wikipedia.org/wiki/Google)
+- [Microsoft](https://en.wikipedia.org/wiki/Microsoft)
+- [SAP](https://en.wikipedia.org/wiki/SAP)
+- [PayPal](https://en.wikipedia.org/wiki/PayPal)
+- [Siemens](https://en.wikipedia.org/wiki/Siemens)
