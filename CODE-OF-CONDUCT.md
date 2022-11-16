@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Contributor Covenant Code of Conduct
 
 ## Contents
 
