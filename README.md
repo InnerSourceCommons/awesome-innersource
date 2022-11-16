@@ -13,10 +13,16 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 ## Contents
 
-- [Books](#books)
-- [Tools and Applications](#tools-and-applications)
-- [Articles and Videos](#articles-and-videos)
-- [Adopters](#adopters)
+- [Awesome InnerSource ![Awesome](https://awesome.re)](#awesome-innersource-)
+  - [Contents](#contents)
+  - [Books](#books)
+  - [Tools and Applications](#tools-and-applications)
+  - [Articles and Videos](#articles-and-videos)
+    - [About InnerSource](#about-innersource)
+    - [Culture](#culture)
+    - [DevOps](#devops)
+    - [Metrics, Incentives, ROI, KPI](#metrics-incentives-roi-kpi)
+  - [Adopters](#adopters)
 
 ## Books
 
