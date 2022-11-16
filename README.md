@@ -1,3 +1,4 @@
+<!--lint disable awesome-git-repo-age-->
 # Awesome InnerSource [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
