@@ -1,5 +1,5 @@
 <!--lint disable awesome-git-repo-age-->
-# Awesome InnerSource [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome InnerSource [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![slack](https://img.shields.io/badge/slack-innersource-0aa8a7.svg?logo=slack&style=flat-square)](https://innersourcecommons-inviter.herokuapp.com/)
 
 <!--lint ignore double-link-->
 A curated list of awesome **[InnerSource](https://innersourcecommons.org/)** resources (books, articles, blogs, projects and more). 
