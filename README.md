@@ -13,16 +13,8 @@ A curated list of awesome **[InnerSource](https://innersourcecommons.org/)** res
 <!--lint ignore double-link-->
 This [awesome](https://github.com/sindresorhus/awesome) repository is maintained by the [InnerSource Commons Community](https://innersourcecommons.org/).
 
-## Contents
-
-- [Books](#books)
-- [Tools and Applications](#tools-and-applications)
-- [Articles and Videos](#articles-and-videos)
-  - [About InnerSource](#about-innersource)
-  - [Culture](#culture)
-  - [DevOps](#devops)
-  - [Metrics, Incentives, ROI, KPI](#metrics-incentives-roi-kpi)
-- [Adopters](#adopters)
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## Books
 
