@@ -5,6 +5,7 @@ on:
 jobs:
   awesome-lint:
     runs-on: ubuntu-latest
+    needs: generateTOC
     steps:
       - uses: actions/checkout@v3
         with:
