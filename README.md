@@ -17,6 +17,16 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Books](#books)
+- [Tools and Applications](#tools-and-applications)
+- [Articles and Videos](#articles-and-videos)
+  - [About InnerSource](#about-innersource)
+  - [Culture](#culture)
+  - [DevOps](#devops)
+  - [Metrics, Incentives, ROI, KPI](#metrics-incentives-roi-kpi)
+- [Adopters](#adopters)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Books
