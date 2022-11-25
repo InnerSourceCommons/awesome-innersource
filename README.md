@@ -23,6 +23,7 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
   - [DevOps](#devops)
   - [Metrics, Incentives, ROI, KPI](#metrics-incentives-roi-kpi)
 - [Adopters](#adopters)
+- [Other Communities](#other-communities)
 
 ## Books
 
