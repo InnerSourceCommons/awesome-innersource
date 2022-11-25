@@ -62,4 +62,4 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 ## Other Communities
 
-- FINOS InnerSource Special Interest Group: [website](https://innersource.finos.org), [GitHub](https://github.com/finos) - a community of people implementing, or interested in implementing, InnerSource within their financial services organization in order to increase collaboration and remove/deal with excessive ownership issues that can stall innovation.
+- [FINOS InnerSource Special Interest Group](https://innersource.finos.org) - a community of people implementing, or interested in implementing, InnerSource within their financial services organization in order to increase collaboration and remove/deal with excessive ownership issues that can stall innovation. [GitHub](https://github.com/finos).
