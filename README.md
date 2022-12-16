@@ -31,7 +31,7 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 - [Understanding the InnerSource Checklist](https://innersourcecommons.org/learn/books/understanding-the-innersource-checklist/) - A checklist guides you through various steps needed to produce software using the InnerSource approach, whether it's company wide or just for one team.
 - [Managing InnerSource Projects](https://innersourcecommons.org/learn/books/managing-innersource-projects/) - In this book Daniel Izquierdo & José Manrique López explain basic infrastructure as well as metrics that are helpful when introducing InnerSource methodologies into an enterprise.
 - [Adopting InnerSource](https://innersourcecommons.org/learn/books/adopting-innersource-principles-and-case-studies/) - The case studies candidly discuss the difficulties of getting InnerSource projects started, along with the progress so far and the benefits or negative fallout.
-- [InnerSource Patterns](https://innersourcecommons.org/learn/books/innersource-patterns/) -  This book contains the most mature patterns, collected by the InnerSource Commons Community.
+- [InnerSource Patterns](https://innersourcecommons.org/learn/books/innersource-patterns/) - This book contains the most mature patterns, collected by the InnerSource Commons Community.
 
 ## Tools and Applications
 
@@ -45,7 +45,7 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 <!--lint ignore double-link-->
 - [InnerSource Commons Homepage](https://innersourcecommons.org/) - InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
-- [InnerSource Commons YouTube](https://www.youtube.com/c/InnerSourceCommons) - The official podcasts about the InnerSource. The channel also contains videos recorded from the past InnerSource Summit events.
+- [InnerSource Commons YouTube](https://www.youtube.com/c/InnerSourceCommons) - Presentation recordings related to InnerSource. The channel contains Community Calls and Summit presentations organized by the InnerSource Commons.
 
 ### Culture
 
