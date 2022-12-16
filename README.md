@@ -39,12 +39,14 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 - [gilda](https://gitlab.com/gilda2/gilda) - InnerSource web gamifiaction platform for gitlab.
 - [Project Portal for InnerSource by SAP](https://github.com/SAP/project-portal-for-innersource) - A reference implementation to list all InnerSource projects of a company in an interactive and easy to use way.
 
-## Articles and Videos 
+## Articles and Videos
 
 ### About InnerSource
 
 <!--lint ignore double-link-->
-- [InnerSource Commons](https://innersourcecommons.org/) - InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
+- [InnerSource Commons Homepage](https://innersourcecommons.org/) - InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
+- [InnerSource Commons Youtube](https://www.youtube.com/c/InnerSourceCommons) - the official podcasts about the InnerSource. The channel also contains
+videos recorded from the past InnerSource Summit events.
 
 ### Culture
 
