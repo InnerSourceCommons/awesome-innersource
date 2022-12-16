@@ -45,8 +45,7 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 
 <!--lint ignore double-link-->
 - [InnerSource Commons Homepage](https://innersourcecommons.org/) - InnerSource Commons is the world's largest community of InnerSource practitioners. It is dedicated to creating and sharing knowledge about InnerSource, the use of open source best practices for software development within the confines of an organization.
-- [InnerSource Commons Youtube](https://www.youtube.com/c/InnerSourceCommons) - the official podcasts about the InnerSource. The channel also contains
-videos recorded from the past InnerSource Summit events.
+- [InnerSource Commons YouTube](https://www.youtube.com/c/InnerSourceCommons) - The official podcasts about the InnerSource. The channel also contains videos recorded from the past InnerSource Summit events.
 
 ### Culture
 
