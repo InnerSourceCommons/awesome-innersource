@@ -13,6 +13,10 @@ A curated list of awesome **[InnerSource](https://innersourcecommons.org/)** res
 <!--lint ignore double-link-->
 This [awesome](https://github.com/sindresorhus/awesome) repository is maintained by the [InnerSource Commons Community](https://innersourcecommons.org/).
 
+### Contents available in:
+ - [Brazilian portuguese](/content/pt-br/README.md)
+ - [English](#contents)
+
 ## Contents
 
 - [Books](#books)
