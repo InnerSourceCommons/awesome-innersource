@@ -11,8 +11,14 @@ A curated list of awesome **[InnerSource](https://innersourcecommons.org/)** res
 [InnerSource](https://innersourcecommons.org/) is a software development strategy that applies open source best practices to proprietary code. InnerSource can help establish an open source culture within an organization while retaining software for internal use. Teams use InnerSource to increase visibility, strengthen collaboration and break down silos. Through the set of practices, InnerSource helps companies to simplify, standardize and make cost savings globally and across departments.
 
 <!--lint ignore double-link-->
-This [awesome](https://github.com/sindresorhus/awesome) repository is maintained by the [InnerSource Commons Community](https://innersourcecommons.org/).
+This [awesome](https://github.com/InnerSourceCommons/awesome-innersource) repository is maintained by the [InnerSource Commons Community](https://innersourcecommons.org/).
 
+### Available languages
+
+- [Brazilian portuguese](README.pt-br.md)
+- [English](#contents)
+
+<!--lint ignore awesome-toc-->
 ## Contents
 
 - [Books](#books)
@@ -36,7 +42,7 @@ This [awesome](https://github.com/sindresorhus/awesome) repository is maintained
 ## Tools and Applications
 
 - [Backstage](https://backstage.io/) - An open platform for building developer portals. Realization of the [InnerSource Portal Pattern](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/innersource-portal.md).
-- [gilda](https://gitlab.com/gilda2/gilda) - InnerSource web gamifiaction platform for gitlab.
+- [gilda](https://gitlab.com/gilda2/gilda) - InnerSource web gamifiaction platform for GitLab.
 - [Project Portal for InnerSource by SAP](https://github.com/SAP/project-portal-for-innersource) - A reference implementation to list all InnerSource projects of a company in an interactive and easy to use way.
 
 ## Articles and Videos
