@@ -14,6 +14,7 @@ A curated list of awesome **[InnerSource](https://innersourcecommons.org/)** res
 This [awesome](https://github.com/InnerSourceCommons/awesome-innersource) repository is maintained by the [InnerSource Commons Community](https://innersourcecommons.org/).
 
 ### Contents available in:
+
  - [Brazilian portuguese](README.pt-br.md)
  - [English](#contents)
 

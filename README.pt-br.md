@@ -11,7 +11,6 @@ Uma lista de recursos incríveis sobre **[InnerSource](https://innersourcecommon
 <!--lint ignore double-link-->
 Esse [incrível](https://github.com/InnerSourceCommons/awesome-innersource) (_awsome_) repositório é nabtudi pela [Comunidade InnerSource Commons](https://innersourcecommons.org/).
 
-
 ## Conteúdo
 
 - [Livros](#livros)
