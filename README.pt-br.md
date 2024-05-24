@@ -3,13 +3,13 @@ Uma lista de recursos incríveis sobre **[InnerSource](https://innersourcecommon
 > If you do not speak Portuguese, check [other languages available](./README.md#contents)
 
 <!--lint ignore double-link-->
-[<img src="../../assets/images/innersource-logo.png" align="right" width="100" alt="InnerSource Commons">](https://innersourcecommons.org/)
+[<img src="assets/images/innersource-logo.png" align="right" width="100" alt="InnerSource Commons">](https://innersourcecommons.org/)
 
 <!--lint ignore double-link-->
 [InnerSource](https://innersourcecommons.org/) é uma estratégia de desenvolvimento de software que aplica melhores práticas de open source em código proprietário. InnerSource pode ajudar a estabelecer uma cultura open source na organização enquanto retém o código para uso interno. Times usam InnerSource para aumentar a visibilidade, fortalecer colaboração e quebrar silos. Através de um conjunto de práticas, InnerSource ajuda empresas a simplificar, padronizar e reduzir custos globalmente e entre departamentos.
 
 <!--lint ignore double-link-->
-Esse [incrível](https://github.com/InnerSourceCommons/awesome-innersource) (_awsome_) repositório é nabtudi pela [Comunidade InnerSource Commons](https://innersourcecommons.org/).
+Esse [incrível](https://github.com/InnerSourceCommons/awesome-innersource) (_awsome_) repositório é mantido pela [Comunidade InnerSource Commons](https://innersourcecommons.org/).
 
 ## Conteúdo
 
