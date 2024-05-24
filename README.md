@@ -13,11 +13,12 @@ A curated list of awesome **[InnerSource](https://innersourcecommons.org/)** res
 <!--lint ignore double-link-->
 This [awesome](https://github.com/InnerSourceCommons/awesome-innersource) repository is maintained by the [InnerSource Commons Community](https://innersourcecommons.org/).
 
-### Contents available in:
+### Available languages
 
- - [Brazilian portuguese](README.pt-br.md)
- - [English](#contents)
+- [Brazilian portuguese](README.pt-br.md)
+- [English](#contents)
 
+<!--lint ignore awesome-toc-->
 ## Contents
 
 - [Books](#books)
@@ -41,7 +42,7 @@ This [awesome](https://github.com/InnerSourceCommons/awesome-innersource) reposi
 ## Tools and Applications
 
 - [Backstage](https://backstage.io/) - An open platform for building developer portals. Realization of the [InnerSource Portal Pattern](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/innersource-portal.md).
-- [gilda](https://gitlab.com/gilda2/gilda) - InnerSource web gamifiaction platform for gitlab.
+- [gilda](https://gitlab.com/gilda2/gilda) - InnerSource web gamifiaction platform for GitLab.
 - [Project Portal for InnerSource by SAP](https://github.com/SAP/project-portal-for-innersource) - A reference implementation to list all InnerSource projects of a company in an interactive and easy to use way.
 
 ## Articles and Videos
