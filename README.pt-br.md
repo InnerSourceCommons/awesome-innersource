@@ -1,6 +1,6 @@
 Uma lista de recursos incríveis sobre **[InnerSource](https://innersourcecommons.org/)** (livros, artigos, blogs, projetos e mais).  
 
-> If you do not speak portuguese, check [other languages availables](../../README.md#contents)
+> If you do not speak portuguese, check [other languages availables](./README.md#contents)
 
 <!--lint ignore double-link-->
 [<img src="../../assets/images/innersource-logo.png" align="right" width="100" alt="InnerSource Commons">](https://innersourcecommons.org/)
