@@ -7,3 +7,6 @@
 # These owners will be the default owners for everything in
 # the repo.
 * @pmalirz
+
+# Code owners of Brazilian Portuguese content in FY24
+*.pt-br.md @fer-correa @jrcosta @afucher
