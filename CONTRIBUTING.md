@@ -19,6 +19,7 @@ For contributing, [open an issue](https://github.com/InnerSourceCommons/awesome-
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
 - If there is a merge conflict, please rebase and resolve the conflicts and then submit the PR again.
+- Check linter rules running `npx awesome-lint` in the root folder.
 
 ## Code of Conduct
 
