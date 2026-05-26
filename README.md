@@ -43,6 +43,7 @@ This [awesome](https://github.com/InnerSourceCommons/awesome-innersource) reposi
 
 - [Backstage](https://backstage.io/) - An open platform for building developer portals. Realization of the [InnerSource Portal Pattern](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/innersource-portal.md).
 - [gilda](https://gitlab.com/gilda2/gilda) - InnerSource web gamifiaction platform for GitLab.
+- [Project Fleming](https://github.com/sede-open/fleming) - An open source, AI-powered semantic code discovery tool that helps engineers find existing internal projects across repositories.
 - [Project Portal for InnerSource by SAP](https://github.com/SAP/project-portal-for-innersource) - A reference implementation to list all InnerSource projects of a company in an interactive and easy to use way.
 
 ## Articles and Videos
