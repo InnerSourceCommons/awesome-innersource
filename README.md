@@ -42,7 +42,7 @@ This [awesome](https://github.com/InnerSourceCommons/awesome-innersource) reposi
 ## Tools and Applications
 
 - [Backstage](https://backstage.io/) - An open platform for building developer portals. Realization of the [InnerSource Portal Pattern](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/main/patterns/2-structured/innersource-portal.md).
-- [Bazaar](https://github.com/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar) - A Backstage plugin that provides a marketplace for surfacing internal projects suitable for InnerSourcing.
+- [Bazaar](https://github.com/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar) - A Backstage plugin that provides a marketplace for surfacing internal projects suitable for InnerSource adoption.
 - [gilda](https://gitlab.com/gilda2/gilda) - InnerSource web gamifiaction platform for GitLab.
 - [Project Portal for InnerSource by SAP](https://github.com/SAP/project-portal-for-innersource) - A reference implementation to list all InnerSource projects of a company in an interactive and easy to use way.
 
